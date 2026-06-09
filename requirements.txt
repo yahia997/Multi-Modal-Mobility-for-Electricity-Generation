@@ -1,0 +1,10 @@
+pyspark==4.0.0
+pandas
+numpy
+geopandas
+shapely
+matplotlib
+seaborn
+scikit-learn
+plotly
+contextily
